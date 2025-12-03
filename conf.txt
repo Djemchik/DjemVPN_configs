@@ -1,1 +1,2 @@
 vless://4aa980fb-b1f8-45ca-90d0-46ebeca227a0@188.225.81.19:4443?security=reality&encryption=none&pbk=FcZ6-LZS5HHqAJ8YwFV_Gu_WxrMuylqxYjBu-1CLVRI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=a9725715bf4c62ff#Test
+vless://5da1b2d1-5367-46fd-a905-5ff5e0bd2f1e@85.192.63.57:443?security=reality&encryption=none&pbk=85_p6DLUIlKajoJfYCKJAr54RLdA93ykClM-SeQu7Uc&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=c5b01dc79d0017ab#%F0%9F%87%AE%F0%9F%87%B1telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
